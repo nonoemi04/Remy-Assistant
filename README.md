@@ -1,2 +1,2 @@
 # Remy-Assistant
-Optimal Socially Assistive RObot
+Optimal Socially Assistive Robot
